@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ContactSync/ViewController.swift"
-            timestampString = "507026514.825814"
+            timestampString = "507027005.381519"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "39"
-            endingLineNumber = "39"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
             landmarkName = "animateView()"
             landmarkType = "7">
          </BreakpointContent>
